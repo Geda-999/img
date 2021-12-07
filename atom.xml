@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>顺の绊爱酱</title>
+  
+  <subtitle>顺の绊爱酱</subtitle>
+  <link href="http://example.com/img/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/img/"/>
+  <updated>2021-12-06T13:50:46.024Z</updated>
+  <id>http://example.com/img/</id>
+  
+  <author>
+    <name>顺の绊爱</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://example.com/img/hello-world.html"/>
+    <id>http://example.com/img/hello-world.html</id>
+    <published>2021-12-06T13:50:46.024Z</published>
+    <updated>2021-12-06T13:50:46.024Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Bootstrap</title>
+    <link href="http://example.com/img/text14.html"/>
+    <id>http://example.com/img/text14.html</id>
+    <published>2021-11-23T14:00:00.000Z</published>
+    <updated>2021-12-07T05:19:04.917Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Bootstrap&quot;&gt;&lt;a href=&quot;#Bootstrap&quot; class=&quot;headerlink&quot; title=&quot;Bootstrap&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.bootcss.com/&quot;&gt;Bootstrap&lt;/a&gt;&lt;/h1&gt;&lt;p&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="Frontend" scheme="http://example.com/img/categories/Frontend/"/>
+    
+    
+    <category term="前端" scheme="http://example.com/img/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+  </entry>
+  
+</feed>
